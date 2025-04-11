@@ -102,3 +102,13 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 - 📸 [Instagram](https://www.instagram.com/babakzolghadrasli)
 - 🐦 [X / Twitter](https://x.com/babak_zolghadr)
 
+---
+
+### 📊 GitHub Stats
+
+![Babak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabakZolghadrAsli&show_icons=true&theme=default)
+
+![Babak's GitHub Streak](https://streak-stats.demolab.com/?user=BabakZolghadrAsli)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabakZolghadrAsli&layout=compact)
+
