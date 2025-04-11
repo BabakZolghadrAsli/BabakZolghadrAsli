@@ -72,4 +72,33 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 **Tools & Platforms:**
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+## 🏆 Awards & Achievements
+- 🏅 **Paper of the Year Nominee** – *Cambridge University Press* (2024)  
+  *"A call for a fundamental shift from model development to data-centric approaches in hydroinformatics"*
+
+- 🧑‍🏫 **Young Science Ambassador Award** – Wonder of Science, *University of Queensland* (2024)
+
+- 🎓 **Full PhD/Research Scholarship** – QUEX Program, *University of Queensland & University of Exeter* (2022–2025)
+
+- ✈️ **Travel Grant** – IDSAI, *University of Exeter*, for AIUK Symposium, London (£700+, 2023)
+
+- 🌟 **Rising Stars Workshop Travel Grant** – Manchester, UK (£250+, 2023)
+
+- 🥇 **1st Place Scientific Award** – Prof. Alireza Sepaskhah Award, *Shiraz University*, Iran (2019)
+
+- 🏆 **Outstanding MSc Thesis Award** – *5th National Festival of Environment*, Tehran, Iran (2018)
+
+- 🎖️ **Outstanding Student Award** – *8th International Festival and Exhibition*, University of Tehran, Iran (2018)
+
+- 🧑‍🔬 **Outstanding Researcher Award** – *26th Research Festival*, University of Tehran, Iran (2017)
+
+## 🌐 Contact & Links
+- 🌍 [Personal Website](https://babakzolghadrasli.space)
+- 💼 [LinkedIn](https://www.linkedin.com/in/babak-zolghadr-asli)
+- 🐙 [GitHub](https://github.com/BabakZolghadrAsli)
+- 📊 [Kaggle](https://www.kaggle.com/zolghadrbabak)
+- 🎥 [YouTube](https://www.youtube.com/@babakzolghadr-asli)
+- 🎮 [Twitch](https://www.twitch.tv/babakzolghadrasli)
+- 📸 [Instagram](https://www.instagram.com/babakzolghadrasli)
+- 🐦 [X / Twitter](https://x.com/babak_zolghadr)
 
