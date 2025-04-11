@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BabakZolghadrAsli/BabakZolghadrAsli/main/banner.png" alt="Babak's Banner" />
+</p>
+
 # Hi there! I'm Babak 👋  
 I'm a PhD researcher in hydroinformatics working jointly between the University of Queensland and the University of Exeter.  
 My work focuses on leveraging computational intelligence (CI) and artificial intelligence (AI) to solve complex water-related and sustainability challenges.  
