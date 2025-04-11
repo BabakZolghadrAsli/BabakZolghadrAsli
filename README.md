@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BabakZolghadrAsli/BabakZolghadrAsli/main/banner.png" alt="Babak's Banner" />
+  <img src="https://github.com/BabakZolghadrAsli/BabakZolghadrAsli/blob/main/Wordcloud%20-%20Babak%20Zolghadr-Asli.png" alt="Babak's Banner" />
 </p>
 
 # Hi there! I'm Babak 👋  
