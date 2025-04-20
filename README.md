@@ -34,12 +34,13 @@ I'm especially passionate about open research, data-centric approaches, and deve
 
 - 🏗️ **Dangers of Aging Water Infrastructure**  
   Commentary on the urgent risks posed by failing infrastructure, especially in the Global South, and the need for resilient, transparent governance.  
-  Co-authored with Ahmad Ferdowsi and Amir AghaKouchak.  
+  Co-authored with [Ahmad Ferdowsi](https://www.linkedin.com/in/ahmad-ferdowsi-1006616a/) and Prof. [Amir AghaKouchak](https://www.linkedin.com/in/amir-aghakouchak-9010b883/).  
   [🔗 Science, 2024](https://www.science.org/doi/abs/10.1126/science.adr1054)
 
-- 📊 **A Call for a Fundamental Shift...**  
-  *From model-centric to data-centric approaches in hydroinformatics*  
-  Nominated for Paper of the Year by Cambridge University Press.  
+- 📊 **A Call for a Fundamental Shift in Hydroinformatics**  
+  *From model-centric to data-centric approaches*  
+  Nominated for Paper of the Year by Cambridge University Press.
+  Co-authored with [Ahmad Ferdowsi](https://www.linkedin.com/in/ahmad-ferdowsi-1006616a/) and Prof. [Dargan Savic](https://www.linkedin.com/in/dragansavic/)
   [🔗 Cambridge Prisms: Water, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6owBze4AAAAJ&sortby=pubdate&citation_for_view=6owBze4AAAAJ:prdVHNxh-e8C)
 
 - 💧 **Harnessing CI for Desalination & Agriculture**  
@@ -51,7 +52,7 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 ## 🗞️ Press & Media
 - 🌐 *The Conversation*  
   *Why saline lakes are the ‘canary in the coal mine’ for the world’s water resources*  
-  Co-authored with Prof. Kaveh Madani and Ahmad Ferdowsi, highlighting the global significance of drying saline lakes.  
+  Co-authored with Prof. [Kaveh Madani](https://www.linkedin.com/in/kaveh-madani-b8a67619/) and Ahmad Ferdowsi, highlighting the global significance of drying saline lakes. 
   [🔗 Read article](https://theconversation.com/why-saline-lakes-are-the-canary-in-the-coalmine-for-the-worlds-water-resources-232477)
 
 - 🎙️ *The Naked Scientists* Podcast  
