@@ -41,7 +41,6 @@ I'm especially passionate about open research, data-centric approaches, and deve
   *From model-centric to data-centric approaches*  
   Nominated for Paper of the Year by Cambridge University Press.
   Co-authored with [Ahmad Ferdowsi](https://www.linkedin.com/in/ahmad-ferdowsi-1006616a/) and Prof. [Dargan Savic](https://www.linkedin.com/in/dragansavic/)
-  
   [🔗 Cambridge Prisms: Water, 2024](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6owBze4AAAAJ&sortby=pubdate&citation_for_view=6owBze4AAAAJ:prdVHNxh-e8C)
 
 - 💧 **Harnessing CI for Desalination & Agriculture**  
@@ -71,12 +70,18 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 **Libraries & Frameworks:**  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0C5A91?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FFB700?style=flat-square)
+![AquaCrop-OSPy](https://img.shields.io/badge/-AquaCrop--OSPy-1D8348?style=flat-square)
+![ipywidgets](https://img.shields.io/badge/-ipywidgets-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFB700?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
 
 **Tools & Platforms:**
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ## 🏆 Awards & Achievements
 - 🏅 **Paper of the Year Nominee** – *Cambridge University Press* (2024)  
