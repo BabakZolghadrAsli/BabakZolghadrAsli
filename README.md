@@ -15,7 +15,7 @@ I'm especially passionate about open research, data-centric approaches, and deve
   Exploring sustainable strategies to integrate desalinated water into agriculture systems.  
   [🔗 Website](https://babakzolghadrasli.space/ph-d-thesis) | [📁 GitHub Repo](https://github.com/BabakZolghadrAsli/Desalinated-Irrigation)
 
-- 🤖 **Self-Tuning Meta-Learning (STML)**  
+- 🤖 **Self-Tuning Multi-layer (STML) algorithm**  
   A parameterless optimization architecture that learns to optimize — no manual tuning needed.  
   [📄 Paper (Applied Soft Computing, 2024)](https://www.sciencedirect.com/science/article/pii/S1568494624008196) | [📁 GitHub Repo](https://github.com/BabakZolghadrAsli/STML)
 
