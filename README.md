@@ -82,6 +82,7 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 **Tools & Platforms:**
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ## 🏆 Awards & Achievements
 - 🏅 **Paper of the Year Nominee** – *Cambridge University Press* (2024)  
