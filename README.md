@@ -60,7 +60,8 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
   [🔗 Listen here](https://www.thenakedscientists.com/articles/interviews/ai-aiding-water-infrastructure)
   
 - 📰 *Nature Careers* Column (Draft shared, pending)  
-  Reflections on my academic life. *(Submitted article – awaiting outcome)*
+  Reflections on my academic life. 
+  [🔗 Read article](https://www.nature.com/articles/d41586-025-01226-5)
 
 ## 💻 Languages & Tools
 
