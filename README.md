@@ -59,7 +59,7 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
   Guest on a special episode discussing how AI can shift the water engineering paradigm from model-centric to data-centric.  
   [🔗 Listen here](https://www.thenakedscientists.com/articles/interviews/ai-aiding-water-infrastructure)
   
-- 📰 *Nature Careers* Column (Draft shared, pending)  
+- 📰 *Nature Careers* Column
   Reflections on my academic life. 
   [🔗 Read article](https://www.nature.com/articles/d41586-025-01226-5)
 
