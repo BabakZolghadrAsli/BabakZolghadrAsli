@@ -13,7 +13,7 @@ I'm especially passionate about open research, data-centric approaches, and deve
   *Maximising the benefits of desalinated seawater supply networks for agricultural sustainability*  
   *Jan 2022 – Present*  
   Exploring sustainable strategies to integrate desalinated water into agriculture systems.  
-  [🔗 Website](https://babakzolghadrasli.space/ph-d-thesis) | [📁 GitHub Repo](https://github.com/BabakZolghadrAsli/Desalinated-Irrigation)
+  [🔗 Website](https://babakzolghadrasli.space/ph-d-thesis)
 
 - 🤖 **Self-Tuning Multi-layer (STML) algorithm**  
   A parameterless optimization architecture that learns to optimize — no manual tuning needed.  
