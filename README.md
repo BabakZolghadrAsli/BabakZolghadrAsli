@@ -59,7 +59,7 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
   Guest on a special episode discussing how AI can shift the water engineering paradigm from model-centric to data-centric.  
   [🔗 Listen here](https://www.thenakedscientists.com/articles/interviews/ai-aiding-water-infrastructure)
   
-- 📰 *Nature Careers* Column
+- 📰 *Nature Careers* Column  
   Reflections on my academic life. 
   [🔗 Read article](https://www.nature.com/articles/d41586-025-01226-5)
 
@@ -86,7 +86,7 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ## 🏆 Awards & Achievements
-- 🎓 **Open Research Award** - Environment, Science and Economy Discipline - *University of Exeter* (2025)
+- 🎓 **Open Research Award** - Environment, Science and Economy Discipline - *University of Exeter* (2025)  
 *“STML-AquaCrop – An open-source framework for desalinated water optimization in arid agriculture.”*
   
 - 🏅 **Paper of the Year Nominee** – *Cambridge University Press* (2024)  
