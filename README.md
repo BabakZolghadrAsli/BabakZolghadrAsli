@@ -86,6 +86,9 @@ See the full list on [Google Scholar](https://scholar.google.com/citations?user=
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ## 🏆 Awards & Achievements
+- 🎓 **Open Research Award** - Environment, Science and Economy Discipline - *University of Exeter* (2025)
+*“STML-AquaCrop – An open-source framework for desalinated water optimization in arid agriculture.”*
+  
 - 🏅 **Paper of the Year Nominee** – *Cambridge University Press* (2024)  
   *"A call for a fundamental shift from model development to data-centric approaches in hydroinformatics"*
 
